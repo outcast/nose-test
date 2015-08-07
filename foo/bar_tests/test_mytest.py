@@ -1,7 +1,7 @@
 __author__ = 'jajones3'
 
 
-import foo
+import nose
 
 class TestMyClass():
 
