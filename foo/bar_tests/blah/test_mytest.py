@@ -1,6 +1,5 @@
 __author__ = 'jajones3'
 
-
 import nose
 
 class TestMyClass():
